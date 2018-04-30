@@ -17,9 +17,6 @@ import br.com.starwars.planeta.vo.PlanetaVO;
 /**
  * 
  * @author leonardo
- * Na URL http://localhost:8080/Jogo/planetaWS vai trazer todos os planetas. 
- * Na URL URL: http://localhost:8080/Jogo/planetaWS?nomePlaneta=Terra vai trazer somente com nome = Terra
- * 
  * 
  */
 
